@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Alternative lock files (keep the one your project uses)
+# package-lock.json is tracked for npm projects
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
