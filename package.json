@@ -1,0 +1,19 @@
+{
+  "name": "akash-medicine-house",
+  "version": "1.0.0",
+  "description": "Akash Medicine House - Pharmacy in Daya Muhallah, Kandhkot",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build needed'"
+  },
+  "keywords": [
+    "pharmacy",
+    "medicine",
+    "healthcare"
+  ],
+  "author": "Sahil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
